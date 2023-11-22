@@ -46,14 +46,17 @@ The data that I would be using is from continuously updated data provided by Our
 
   <article>
 </section>    <h1>Key Features</h1>
-<p>The key features of this project where to showcase that I know how to do some of the basic tasks required for Data Analysis</p>
+<p>The key features of this project where to showcase that I know how to use the basic tools required for Data Analysis</p>
 
 
       
 - [x] Creating Servers
-- [x] Creating Database
+- [x] Creating Databases
+- [X] Data Management 
 - [x] SQL Queries
 - [x] Tableau Dashboard
+- [X] Machine Learning
+- [X] Python
 
 
   </article>
