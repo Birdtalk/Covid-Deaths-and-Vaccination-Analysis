@@ -1,10 +1,9 @@
-#Covid Deaths and Vaccination Analysis
+
 
 <header>
   <h1  align="left">Covid Deaths and Vaccination Analysis</h1>
-
-  <p>
-   This Repository Contains surface Level Analysis of Covid Data using SQL 
+<p>
+   This Repository contains basic analysis of Covid Data for a personal project
   </p>
 </header>
 
@@ -15,7 +14,7 @@
       <p align="left">
 	    <a href="#part1">Part 1</a> •
 
-      </p>
+</p>
 
 </nav>
 
