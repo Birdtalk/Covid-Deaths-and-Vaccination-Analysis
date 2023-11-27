@@ -40,7 +40,7 @@ The data that I would be using is from continuously updated data provided by Our
 </br>
 	The Dashboard
 </br>
- <img src="Tableau_Dashboard.png" />
+ <img src="Tableau Dashboard.png" />
 </br>
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/stephan.schuller/viz/CovidDashboard_17011236521230/Dashboard2?publish=yes)
 </p>
