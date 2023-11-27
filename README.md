@@ -34,10 +34,15 @@ The data that I would be using is from continuously updated data provided by Our
 	<h1>Dashboard in Tableau</h1>
  <p>
 	 I am using the free version of Tableau called Tableau Public. I don't own a business so it makes much more sense for me to use free resources for this personal projet. 
-	 You can download the same software i'm using, from here [Tableau Publi](https://www.tableau.com/products/public/download).
+	 You can download the same software i'm using, from here [Tableau Public](https://www.tableau.com/products/public/download).
 </br>
-	The main downsides of using Tableau public is that it has no functionality to connect to my MySQL database (at least none that I can figure out). So all the views I could create in SQL on the database will be of little help to me in Tableau. Which is a bummer but overall not a big deal.
-
+	The main downsides of using Tableau public is that it has no functionality to connect to my MySQL database (I didnt want to waste too much time trying to figure it out). So the typical views I could create in SQL on the database will be of little help to me in Tableau. The workaround doesn't require a big investment, since I will only be using 4 datasets.
+</br>
+	The Dashboard
+</br>
+ <img src="Tableau_Dashboard.png" />
+</br>
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/stephan.schuller/viz/CovidDashboard_17011236521230/Dashboard2?publish=yes)
 </p>
 	
 </section>
