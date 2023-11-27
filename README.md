@@ -55,43 +55,16 @@ The data that I would be using is from continuously updated data provided by Our
 
 
       
-- [x] Creating Servers
+
 - [x] Creating Databases
-- [X] Data Management 
+
 - [x] SQL Queries
 - [x] Tableau Dashboard
-- [X] Machine Learning
-- [X] Python
+
+
 
 
   </article>
   <br/>
 </section>
 
-<section id="summary">
-<h1> Summary</h1>
-<p>
-Summary
-</br>
-<ol>
-<li>
-	</li>
-<li>
-   </li>
-<li>
-   </li>
-
-<li>
-	</li>
-   <li>
-<li>
-</li>
-<li>  
-</li>
-</ol>
-</br>
-Summary
-</p>
-<br/>
-
-</section>
